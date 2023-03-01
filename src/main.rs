@@ -1,3 +1,5 @@
+extern crate core;
+
 use models::connection::create_table;
 
 
